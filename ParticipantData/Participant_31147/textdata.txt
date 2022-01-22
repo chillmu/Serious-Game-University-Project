@@ -1,0 +1,95 @@
+Participant ID: 31147
+Number of times the achievement menu was opened: 1
+Number of times the dictionary menu was opened: 3
+Number of times the analytics menu was opened: 1
+Number of times the mnemonics menu was opened: 4
+Number of times an analytical graph was viewed: 1
+Number of times a dictionary sound was played: 19
+Number of times a sign post was fully interacted with: 15
+
+Order Rooms were completed in: Room1,Room2,Room3,Room4,Room5,Room6,Room7,Room8,Room9,Room10,Room11,Room12,Room13,Room14,Room15
+Was Room 1 completed? True
+Date Room 1 was completed: 27-11-2021T13:45:27Z
+Number of times Room 1 was entered: 1
+Number of times Room 1 was failed: 0
+
+Was Room 2 completed? True
+Date Room 2 was completed: 27-11-2021T13:52:30Z
+Number of times Room 2 was entered: 1
+Number of times Room 2 was failed: 0
+
+Was Room 3 completed? True
+Date Room 3 was completed: 27-11-2021T14:01:21Z
+Number of times Room 3 was entered: 1
+Number of times Room 3 was failed: 0
+
+Was Room 4 completed? True
+Date Room 4 was completed: 27-11-2021T14:04:56Z
+Number of times Room 4 was entered: 1
+Number of times Room 4 was failed: 0
+
+Was Room 5 completed? True
+Date Room 5 was completed: 27-11-2021T14:08:11Z
+Number of times Room 5 was entered: 2
+Number of times Room 5 was failed: 0
+
+Was Room 6 completed? True
+Date Room 6 was completed: 27-11-2021T14:11:53Z
+Number of times Room 6 was entered: 1
+Number of times Room 6 was failed: 0
+
+Was Room 7 completed? True
+Date Room 7 was completed: 27-11-2021T14:14:03Z
+Number of times Room 7 was entered: 1
+Number of times Room 7 was failed: 0
+
+Was Room 8 completed? True
+Date Room 8 was completed: 27-11-2021T14:17:18Z
+Number of times Room 8 was entered: 1
+Number of times Room 8 was failed: 0
+
+Was Room 9 completed? True
+Date Room 9 was completed: 27-11-2021T14:20:32Z
+Number of times Room 9 was entered: 1
+Number of times Room 9 was failed: 0
+
+Was Room 10 completed? True
+Date Room 10 was completed: 27-11-2021T14:22:41Z
+Number of times Room 10 was entered: 1
+Number of times Room 10 was failed: 0
+
+Was Room 11 completed? True
+Date Room 11 was completed: 27-11-2021T14:36:05Z
+Number of times Room 11 was entered: 1
+Number of times Room 11 was failed: 0
+
+Was Room 12 completed? True
+Date Room 12 was completed: 27-11-2021T14:38:52Z
+Number of times Room 12 was entered: 1
+Number of times Room 12 was failed: 0
+
+Was Room 13 completed? True
+Date Room 13 was completed: 27-11-2021T14:44:14Z
+Number of times Room 13 was entered: 1
+Number of times Room 13 was failed: 0
+
+Was Room 14 completed? True
+Date Room 14 was completed: 27-11-2021T14:50:59Z
+Number of times Room 14 was entered: 1
+Number of times Room 14 was failed: 0
+
+Was Room 15 completed? True
+Date Room 15 was completed: 27-11-2021T14:54:45Z
+Number of times Room 15 was entered: 1
+Number of times Room 15 was failed: 0
+
+Average session time: 01:46:26.8600000
+Total session time: 01:46:26.8600000
+Total time spent in encounters: 00:31:29
+Total time spent in rooms: 00:08:27
+Total number of questions correct in a row: 33
+Total number of achievements unlocked: 44/68
+Total number of achievement points earned: 740/1040
+Total number of damage taken: 17
+Average hp when leaving a room: 8
+plus any other data needed...
